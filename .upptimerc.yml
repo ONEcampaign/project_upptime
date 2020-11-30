@@ -4,26 +4,47 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Actionkit
+    url: https://act.one.org
+  - name: Africa Mobile Site
+    url: https://m.one.org/us
+  - name: Bridge Messaging Platform
+    url: https://api.messaging.dev.one.org
+  - name: Bynder
+    url: https://assets.one.org
+  - name: Dashboard
+    url: https://dashboard.one.org
+  - name: Intranet
+    url: https://intranet.one.org
+  - name: ONE Against Poverty UK
+    url: https://www.oneagainstpoverty.org.uk
+  - name: ONE Global Canada
+    url: https://www.oneglobalcanada.com
+  - name: ONE
+    url: https://www.one.org
+  - name: ONE Africa
+    url: https://www.one.org/africa
+  - name: ONE International
+    url: https://www.one.org/international
+  - name: ONE US
+    url: https://www.one.org/us
+  - name: Rapidpro
+    url: https://one.wafl.chat
+  - name: Scorecards
+    url: https://scorecards.one.org
+  - name: Staging
+    url: https://staging.one.org/international
+
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.one.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
+  logoUrl: https://intranet.one.org/wp-content/themes/one_intranet/dist/images/one_red_logo.png
+  name: ONE Status
+  introTitle: "ONE.org status"
+  introMessage: This is the status page for ONE services and websites
   navbar:
     - title: Status
       href: /
