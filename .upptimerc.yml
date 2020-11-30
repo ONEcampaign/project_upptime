@@ -26,6 +26,8 @@ sites:
     url: https://www.one.org/africa
   - name: ONE International
     url: https://www.one.org/international
+  - name: ONE Activists
+    url: https://activists.one.org/
   - name: ONE US
     url: https://www.one.org/us
   - name: Rapidpro
