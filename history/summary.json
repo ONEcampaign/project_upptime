@@ -59,9 +59,9 @@
     "name": "ONE Global Canada",
     "url": "https://www.oneglobalcanada.com",
     "slug": "one-global-canada",
-    "status": "up",
-    "uptime": "100.00%",
-    "time": 113
+    "status": "down",
+    "uptime": "99.86%",
+    "time": 127
   },
   {
     "name": "ONE",
@@ -100,7 +100,7 @@
     "url": "https://www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "25.16%",
+    "uptime": "66.63%",
     "time": 66
   },
   {
