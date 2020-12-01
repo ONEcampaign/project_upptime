@@ -5,7 +5,7 @@
     "slug": "actionkit",
     "status": "up",
     "uptime": "100.00%",
-    "time": 367
+    "time": 363
   },
   {
     "name": "Africa Mobile Site",
@@ -13,7 +13,7 @@
     "slug": "africa-mobile-site",
     "status": "up",
     "uptime": "100.00%",
-    "time": 497
+    "time": 473
   },
   {
     "name": "Bridge Messaging Platform",
@@ -21,7 +21,7 @@
     "slug": "bridge-messaging-platform",
     "status": "down",
     "uptime": "0.00%",
-    "time": 448
+    "time": 445
   },
   {
     "name": "Bynder",
@@ -29,7 +29,7 @@
     "slug": "bynder",
     "status": "up",
     "uptime": "100.00%",
-    "time": 485
+    "time": 441
   },
   {
     "name": "Dashboard",
@@ -37,7 +37,7 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "time": 389
+    "time": 362
   },
   {
     "name": "Intranet",
@@ -45,7 +45,7 @@
     "slug": "intranet",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1720
+    "time": 1637
   },
   {
     "name": "ONE Against Poverty UK",
@@ -53,15 +53,15 @@
     "slug": "one-against-poverty-uk",
     "status": "up",
     "uptime": "100.00%",
-    "time": 162
+    "time": 154
   },
   {
     "name": "ONE Global Canada",
     "url": "https://www.oneglobalcanada.com",
     "slug": "one-global-canada",
     "status": "up",
-    "uptime": "97.83%",
-    "time": 119
+    "uptime": "98.32%",
+    "time": 116
   },
   {
     "name": "ONE",
@@ -69,7 +69,7 @@
     "slug": "one",
     "status": "up",
     "uptime": "100.00%",
-    "time": 353
+    "time": 327
   },
   {
     "name": "ONE Africa",
@@ -77,7 +77,7 @@
     "slug": "one-africa",
     "status": "up",
     "uptime": "100.00%",
-    "time": 312
+    "time": 339
   },
   {
     "name": "ONE International",
@@ -85,7 +85,7 @@
     "slug": "one-international",
     "status": "up",
     "uptime": "100.00%",
-    "time": 192
+    "time": 179
   },
   {
     "name": "ONE Activists",
@@ -93,15 +93,15 @@
     "slug": "one-activists",
     "status": "up",
     "uptime": "100.00%",
-    "time": 750
+    "time": 672
   },
   {
     "name": "Accountability Music Awards",
     "url": "https://www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "72.80%",
-    "time": 205
+    "uptime": "79.85%",
+    "time": 185
   },
   {
     "name": "ONE US",
@@ -109,7 +109,7 @@
     "slug": "one-us",
     "status": "up",
     "uptime": "100.00%",
-    "time": 209
+    "time": 190
   },
   {
     "name": "Rapidpro",
@@ -117,7 +117,7 @@
     "slug": "rapidpro",
     "status": "up",
     "uptime": "100.00%",
-    "time": 5027
+    "time": 5011
   },
   {
     "name": "Scorecards",
@@ -125,7 +125,7 @@
     "slug": "scorecards",
     "status": "up",
     "uptime": "100.00%",
-    "time": 182
+    "time": 168
   },
   {
     "name": "Staging",
@@ -133,6 +133,6 @@
     "slug": "staging",
     "status": "up",
     "uptime": "100.00%",
-    "time": 312
+    "time": 303
   }
 ]
