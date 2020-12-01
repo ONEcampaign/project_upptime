@@ -1,7 +1,7 @@
 url: https://www.accountabilitymusicawards.org  
-status: up
-code: 200
-responseTime: 921
-lastUpdated: 2020-12-01T10:23:16.783Z
+status: down
+code: 503
+responseTime: 55
+lastUpdated: 2020-12-01T12:25:57.566Z
 startTime: Mon Nov 30 2020 16:52:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
