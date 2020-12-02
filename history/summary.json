@@ -51,16 +51,16 @@
     "name": "ONE Against Poverty UK",
     "url": "https://www.oneagainstpoverty.org.uk",
     "slug": "one-against-poverty-uk",
-    "status": "down",
-    "uptime": "99.56%",
-    "time": 161
+    "status": "up",
+    "uptime": "99.01%",
+    "time": 165
   },
   {
     "name": "ONE Global Canada",
     "url": "https://www.oneglobalcanada.com",
     "slug": "one-global-canada",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "time": 114
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "86.31%",
+    "uptime": "86.40%",
     "time": 313
   },
   {
