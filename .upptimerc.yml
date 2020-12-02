@@ -9,7 +9,9 @@ sites:
   - name: Africa Mobile Site
     url: https://m.one.org/us
   - name: Bridge Messaging Platform
-    url: api.messaging.dev.one.org/prod/gqlgw/countries/fuzzySearch?search=test
+    url: https://api.messaging.dev.one.org/prod/gqlgw/countries/fuzzySearch?search=test
+    headers:
+      - "x-api-key: $BRIDGE_API"
   - name: Bynder
     url: https://assets.one.org
   - name: Dashboard
