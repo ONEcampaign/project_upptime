@@ -20,7 +20,7 @@
     "url": "https://api.messaging.dev.one.org/prod/gqlgw/countries/fuzzySearch?search=test",
     "slug": "bridge-messaging-platform",
     "status": "up",
-    "uptime": "1.33%",
+    "uptime": "2.20%",
     "time": 356
   },
   {
@@ -51,9 +51,9 @@
     "name": "ONE Against Poverty UK",
     "url": "https://www.oneagainstpoverty.org.uk",
     "slug": "one-against-poverty-uk",
-    "status": "down",
-    "uptime": "98.78%",
-    "time": 174
+    "status": "up",
+    "uptime": "97.92%",
+    "time": 171
   },
   {
     "name": "ONE Global Canada",
@@ -100,7 +100,7 @@
     "url": "https://www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "87.73%",
+    "uptime": "87.84%",
     "time": 311
   },
   {
