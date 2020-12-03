@@ -20,7 +20,7 @@
     "url": "https://api.messaging.dev.one.org/prod/gqlgw/countries/fuzzySearch?search=test",
     "slug": "bridge-messaging-platform",
     "status": "up",
-    "uptime": "24.00%",
+    "uptime": "24.73%",
     "time": 374
   },
   {
@@ -52,7 +52,7 @@
     "url": "https://www.oneagainstpoverty.org.uk",
     "slug": "one-against-poverty-uk",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.46%",
     "time": 160
   },
   {
@@ -100,7 +100,7 @@
     "url": "https://www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "89.90%",
+    "uptime": "90.00%",
     "time": 319
   },
   {
