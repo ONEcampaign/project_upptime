@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 352,
-    "timeDay": 285,
-    "timeWeek": 352,
-    "timeMonth": 352,
-    "timeYear": 352
+    "time": 360,
+    "timeDay": 434,
+    "timeWeek": 360,
+    "timeMonth": 360,
+    "timeYear": 360
   },
   {
     "name": "Africa Mobile Site",
@@ -25,27 +25,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 510,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475
+    "time": 511,
+    "timeDay": 862,
+    "timeWeek": 511,
+    "timeMonth": 511,
+    "timeYear": 511
   },
   {
     "name": "Bridge Messaging Platform",
     "url": "https://api.messaging.dev.one.org/prod/gqlgw/countries/fuzzySearch?search=test",
     "slug": "bridge-messaging-platform",
     "status": "up",
-    "uptime": "43.25%",
+    "uptime": "47.15%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "43.25%",
-    "uptimeMonth": "43.25%",
-    "uptimeYear": "43.25%",
-    "time": 468,
-    "timeDay": 539,
-    "timeWeek": 468,
-    "timeMonth": 468,
-    "timeYear": 468
+    "uptimeWeek": "47.15%",
+    "uptimeMonth": "47.15%",
+    "uptimeYear": "47.15%",
+    "time": 503,
+    "timeDay": 786,
+    "timeWeek": 503,
+    "timeMonth": 503,
+    "timeYear": 503
   },
   {
     "name": "Bynder",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 502,
-    "timeDay": 729,
-    "timeWeek": 502,
-    "timeMonth": 502,
-    "timeYear": 502
+    "time": 483,
+    "timeDay": 297,
+    "timeWeek": 483,
+    "timeMonth": 483,
+    "timeYear": 483
   },
   {
     "name": "Dashboard",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 337,
-    "timeDay": 332,
-    "timeWeek": 337,
-    "timeMonth": 337,
-    "timeYear": 337
+    "time": 322,
+    "timeDay": 177,
+    "timeWeek": 322,
+    "timeMonth": 322,
+    "timeYear": 322
   },
   {
     "name": "Intranet",
@@ -89,43 +89,43 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1546,
-    "timeDay": 1521,
-    "timeWeek": 1546,
-    "timeMonth": 1546,
-    "timeYear": 1546
+    "time": 1578,
+    "timeDay": 1903,
+    "timeWeek": 1578,
+    "timeMonth": 1578,
+    "timeYear": 1578
   },
   {
     "name": "ONE Against Poverty UK",
     "url": "https://www.oneagainstpoverty.org.uk",
     "slug": "one-against-poverty-uk",
     "status": "up",
-    "uptime": "97.55%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "97.55%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "97.55%",
-    "time": 147,
-    "timeDay": 108,
-    "timeWeek": 147,
-    "timeMonth": 147,
-    "timeYear": 147
+    "uptime": "97.72%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "97.72%",
+    "uptimeYear": "97.72%",
+    "time": 145,
+    "timeDay": 69,
+    "timeWeek": 145,
+    "timeMonth": 145,
+    "timeYear": 145
   },
   {
     "name": "ONE Global Canada",
     "url": "https://www.oneglobalcanada.com",
     "slug": "one-global-canada",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.64%",
     "uptimeDay": "99.38%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
-    "time": 120,
-    "timeDay": 136,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 118,
+    "timeDay": 124,
+    "timeWeek": 118,
+    "timeMonth": 118,
+    "timeYear": 118
   },
   {
     "name": "ONE",
@@ -137,11 +137,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 370,
-    "timeDay": 510,
-    "timeWeek": 370,
-    "timeMonth": 370,
-    "timeYear": 370
+    "time": 357,
+    "timeDay": 231,
+    "timeWeek": 357,
+    "timeMonth": 357,
+    "timeYear": 357
   },
   {
     "name": "ONE Africa",
@@ -153,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 372,
-    "timeDay": 527,
-    "timeWeek": 372,
-    "timeMonth": 372,
-    "timeYear": 372
+    "time": 364,
+    "timeDay": 293,
+    "timeWeek": 364,
+    "timeMonth": 364,
+    "timeYear": 364
   },
   {
     "name": "ONE International",
@@ -169,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 126,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209
+    "time": 198,
+    "timeDay": 87,
+    "timeWeek": 198,
+    "timeMonth": 198,
+    "timeYear": 198
   },
   {
     "name": "ONE Activists",
@@ -185,27 +185,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 1100,
-    "timeWeek": 657,
-    "timeMonth": 657,
-    "timeYear": 657
+    "time": 675,
+    "timeDay": 833,
+    "timeWeek": 675,
+    "timeMonth": 675,
+    "timeYear": 675
   },
   {
     "name": "Accountability Music Awards",
     "url": "https://www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "91.63%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "91.63%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "91.63%",
-    "time": 336,
-    "timeDay": 350,
-    "timeWeek": 336,
-    "timeMonth": 336,
-    "timeYear": 336
+    "uptime": "92.21%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "92.21%",
+    "uptimeMonth": "92.21%",
+    "uptimeYear": "92.21%",
+    "time": 329,
+    "timeDay": 269,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 329
   },
   {
     "name": "ONE US",
@@ -217,11 +217,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 396,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211
+    "time": 216,
+    "timeDay": 270,
+    "timeWeek": 216,
+    "timeMonth": 216,
+    "timeYear": 216
   },
   {
     "name": "Rapidpro",
@@ -233,11 +233,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5117,
-    "timeDay": 5128,
-    "timeWeek": 5117,
-    "timeMonth": 5117,
-    "timeYear": 5117
+    "time": 5102,
+    "timeDay": 4950,
+    "timeWeek": 5102,
+    "timeMonth": 5102,
+    "timeYear": 5102
   },
   {
     "name": "Scorecards",
@@ -249,11 +249,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 184,
-    "timeWeek": 153,
-    "timeMonth": 153,
-    "timeYear": 153
+    "time": 147,
+    "timeDay": 86,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147
   },
   {
     "name": "Staging",
@@ -265,10 +265,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 391,
-    "timeDay": 422,
-    "timeWeek": 391,
-    "timeMonth": 391,
-    "timeYear": 391
+    "time": 380,
+    "timeDay": 277,
+    "timeWeek": 380,
+    "timeMonth": 380,
+    "timeYear": 380
   }
 ]
