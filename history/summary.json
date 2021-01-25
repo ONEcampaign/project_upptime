@@ -22,10 +22,10 @@
     "url": "https://m.one.org/us",
     "icon": "https://favicons.githubusercontent.com/m.one.org",
     "slug": "africa-mobile-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 412,
@@ -33,7 +33,9 @@
     "timeWeek": 397,
     "timeMonth": 360,
     "timeYear": 412,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 2
+    }
   },
   {
     "name": "Bridge Messaging Platform",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/api.messaging.dev.one.org",
     "slug": "bridge-messaging-platform",
     "status": "up",
-    "uptime": "96.80%",
+    "uptime": "96.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.80%",
+    "uptimeYear": "96.83%",
     "time": 459,
     "timeDay": 342,
     "timeWeek": 411,
@@ -80,10 +82,10 @@
     "url": "https://dashboard.one.org",
     "icon": "https://favicons.githubusercontent.com/dashboard.one.org",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1131,
@@ -91,17 +93,19 @@
     "timeWeek": 1656,
     "timeMonth": 1533,
     "timeYear": 1131,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 2
+    }
   },
   {
     "name": "Intranet",
     "url": "https://intranet.one.org",
     "icon": "https://favicons.githubusercontent.com/intranet.one.org",
     "slug": "intranet",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1452,
@@ -109,7 +113,9 @@
     "timeWeek": 1506,
     "timeMonth": 1408,
     "timeYear": 1452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-25": 1
+    }
   },
   {
     "name": "ONE Against Poverty UK",
@@ -117,11 +123,11 @@
     "icon": "https://favicons.githubusercontent.com/www.oneagainstpoverty.org.uk",
     "slug": "one-against-poverty-uk",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 135,
     "timeDay": 123,
     "timeWeek": 122,
@@ -234,11 +240,11 @@
     "icon": "https://favicons.githubusercontent.com/www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "99.53%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.53%",
+    "uptimeYear": "99.54%",
     "time": 210,
     "timeDay": 50,
     "timeWeek": 101,
