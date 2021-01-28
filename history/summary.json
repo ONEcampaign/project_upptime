@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/api.messaging.dev.one.org",
     "slug": "bridge-messaging-platform",
     "status": "up",
-    "uptime": "96.96%",
+    "uptime": "97.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.96%",
+    "uptimeYear": "97.00%",
     "time": 461,
     "timeDay": 469,
     "timeWeek": 446,
@@ -300,9 +300,9 @@
     "url": "https://scorecards.one.org",
     "icon": "https://favicons.githubusercontent.com/scorecards.one.org",
     "slug": "scorecards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -311,7 +311,9 @@
     "timeWeek": 127,
     "timeMonth": 134,
     "timeYear": 137,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-28": 0
+    }
   },
   {
     "name": "Staging",
