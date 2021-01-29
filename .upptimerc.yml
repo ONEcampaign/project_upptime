@@ -36,8 +36,6 @@ sites:
     url: https://www.one.org/us
   - name: Rapidpro
     url: https://one.wafl.chat
-  - name: Scorecards
-    url: https://scorecards.one.org
   - name: Staging
     url: https://staging.one.org/international
 
