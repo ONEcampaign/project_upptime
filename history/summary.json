@@ -232,11 +232,11 @@
     "icon": "https://favicons.githubusercontent.com/www.accountabilitymusicawards.org",
     "slug": "accountability-music-awards",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 187,
     "timeDay": 167,
     "timeWeek": 140,
@@ -294,9 +294,9 @@
     "url": "https://staging.one.org/international",
     "icon": "https://favicons.githubusercontent.com/staging.one.org",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -305,6 +305,8 @@
     "timeWeek": 385,
     "timeMonth": 406,
     "timeYear": 455,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-03": 0
+    }
   }
 ]
