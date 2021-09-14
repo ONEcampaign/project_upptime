@@ -14,6 +14,8 @@ sites:
       - "x-api-key: $BRIDGE_API"
   - name: Bynder
     url: https://assets.one.org
+  - name: Learning
+    url: https://learning.one.org
   - name: Intranet
     url: https://intranet.one.org
   - name: ONE Against Poverty UK
