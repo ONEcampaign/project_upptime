@@ -1,7 +1,7 @@
 url: https://intranet.one.org
-status: down
-code: 502
-responseTime: 9118
-lastUpdated: 2021-10-08T05:34:35.919Z
+status: up
+code: 200
+responseTime: 123
+lastUpdated: 2021-10-08T05:42:51.721Z
 startTime: Mon Nov 30 2020 15:46:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
