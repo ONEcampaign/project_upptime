@@ -210,54 +210,60 @@
     "url": "https://www.one.org/africa",
     "icon": "https://favicons.githubusercontent.com/www.one.org",
     "slug": "one-africa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 209,
     "timeDay": 232,
     "timeWeek": 153,
     "timeMonth": 147,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 6
+    }
   },
   {
     "name": "ONE International",
     "url": "https://www.one.org/international",
     "icon": "https://favicons.githubusercontent.com/www.one.org",
     "slug": "one-international",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 174,
     "timeDay": 231,
     "timeWeek": 182,
     "timeMonth": 151,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 4
+    }
   },
   {
     "name": "ONE Activists",
     "url": "https://activists.one.org/",
     "icon": "https://favicons.githubusercontent.com/activists.one.org",
     "slug": "one-activists",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 516,
     "timeDay": 215,
     "timeWeek": 235,
     "timeMonth": 332,
     "timeYear": 516,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 2
+    }
   },
   {
     "name": "Accountability Music Awards",
@@ -331,10 +337,10 @@
     "url": "https://staging.one.org/international",
     "icon": "https://favicons.githubusercontent.com/staging.one.org",
     "slug": "staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
@@ -343,6 +349,7 @@
     "timeMonth": 668,
     "timeYear": 485,
     "dailyMinutesDown": {
+      "2021-10-25": 1,
       "2021-08-03": 10
     }
   }
