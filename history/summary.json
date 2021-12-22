@@ -106,9 +106,9 @@
     "url": "https://learning.one.org",
     "icon": "https://favicons.githubusercontent.com/learning.one.org",
     "slug": "learning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -117,7 +117,9 @@
     "timeWeek": 313,
     "timeMonth": 320,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-22": 0
+    }
   },
   {
     "name": "Intranet",
