@@ -107,9 +107,9 @@
     "url": "https://learning.one.org",
     "icon": "https://favicons.githubusercontent.com/learning.one.org",
     "slug": "learning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
@@ -119,6 +119,7 @@
     "timeMonth": 326,
     "timeYear": 328,
     "dailyMinutesDown": {
+      "2022-01-20": 0,
       "2021-12-22": 8
     }
   },
