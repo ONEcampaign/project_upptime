@@ -1,7 +1,7 @@
 url: https://api.messaging.dev.one.org/prod/gqlgw/countries/fuzzySearch?search=test
 status: down
 code: 403
-responseTime: 847
-lastUpdated: 2022-04-03T23:03:48.408Z
+responseTime: 588
+lastUpdated: 2022-04-04T23:04:31.855Z
 startTime: Mon Nov 30 2020 15:46:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
