@@ -1,7 +1,7 @@
 url: https://assets.one.org
-status: up
-code: 200
-responseTime: 256
-lastUpdated: 2022-05-10T23:03:54.322Z
+status: down
+code: 504
+responseTime: 10473
+lastUpdated: 2022-05-11T14:24:45.864Z
 startTime: Mon Nov 30 2020 15:46:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
