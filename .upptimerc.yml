@@ -8,12 +8,10 @@ sites:
     url: https://act.one.org
   - name: Africa Mobile Site
     url: https://m.one.org/us
-  - name: Bridge Messaging Platform
-    url: https://api.messaging.dev.one.org/prod/gqlgw/countries/fuzzySearch?search=test
-    headers:
-      - "x-api-key: $BRIDGE_API"
-  - name: Bynder
-    url: https://assets.one.org
+  - name: Jobs Now Africa
+    url: https://www.jobsnowafrica.org/
+  - name: ResourceSpace
+    url: https://photos.one.org
   - name: Learning
     url: https://learning.one.org
   - name: Intranet
