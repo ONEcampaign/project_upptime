@@ -1,7 +1,7 @@
 url: https://www.one.org/africa
-status: up
-code: 200
-responseTime: 147
-lastUpdated: 2022-06-30T04:52:30.366Z
+status: down
+code: 403
+responseTime: 26
+lastUpdated: 2022-06-30T13:07:00.442Z
 startTime: Mon Nov 30 2020 15:46:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
