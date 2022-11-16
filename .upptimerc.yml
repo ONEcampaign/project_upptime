@@ -34,6 +34,8 @@ sites:
     url: https://www.one.org/us
   - name: Rapidpro
     url: https://one.wafl.chat
+  - name: Data
+    url: https://data.one.org
   - name: Staging
     url: https://staging.one.org/international
 
