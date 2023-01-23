@@ -358,19 +358,19 @@
     "url": "https://data.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/data.one.org.ico",
     "slug": "data",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 210,
-    "timeWeek": 232,
-    "timeMonth": 200,
-    "timeYear": 240,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 239,
+    "timeDay": 200,
+    "timeWeek": 226,
+    "timeMonth": 199,
+    "timeYear": 239,
     "dailyMinutesDown": {
-      "2023-01-23": 1
+      "2023-01-23": 9
     }
   },
   {
