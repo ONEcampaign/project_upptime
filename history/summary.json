@@ -358,18 +358,20 @@
     "url": "https://data.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/data.one.org.ico",
     "slug": "data",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 121,
-    "timeWeek": 223,
-    "timeMonth": 197,
-    "timeYear": 239,
-    "dailyMinutesDown": {}
+    "time": 240,
+    "timeDay": 210,
+    "timeWeek": 232,
+    "timeMonth": 200,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2023-01-23": 1
+    }
   },
   {
     "name": "Staging",
