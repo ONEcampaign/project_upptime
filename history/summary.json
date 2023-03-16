@@ -73,11 +73,11 @@
     "url": "https://photos.one.org",
     "icon": "https://icons.duckduckgo.com/ip3/photos.one.org.ico",
     "slug": "resource-space",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "98.62%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "94.09%",
+    "uptimeMonth": "98.64%",
     "uptimeYear": "99.85%",
     "time": 1201,
     "timeDay": 6710,
@@ -85,7 +85,7 @@
     "timeMonth": 1983,
     "timeYear": 1201,
     "dailyMinutesDown": {
-      "2023-03-16": 27,
+      "2023-03-16": 17,
       "2023-03-11": 578
     }
   },
