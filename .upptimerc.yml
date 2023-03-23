@@ -36,7 +36,7 @@ sites:
     url: https://staging.one.org/international
   - name: Action Tracker
     url: https://actiontracker.one.org
-    - name: Multisite Staging
+  - name: Multisite Staging
     url: https://new.one.org/international
 
 
