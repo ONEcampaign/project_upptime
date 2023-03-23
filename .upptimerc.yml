@@ -6,8 +6,6 @@ repo: project_upptime # Your Github repository name
 sites:
   - name: Actionkit
     url: https://act.one.org
-  - name: Africa Mobile Site
-    url: https://m.one.org/us
   - name: Jobs Now Africa
     url: https://www.jobsnowafrica.org/
   - name: ResourceSpace
@@ -26,8 +24,6 @@ sites:
     url: https://www.one.org/africa
   - name: ONE International
     url: https://www.one.org/international
-  - name: ONE Activists
-    url: https://activists.one.org/
   - name: Accountability Music Awards
     url: https://www.accountabilitymusicawards.org
   - name: ONE US
@@ -38,6 +34,10 @@ sites:
     url: https://data.one.org
   - name: Staging
     url: https://staging.one.org/international
+  - name: Action Tracker
+    url: https://actiontracker.one.org
+    - name: Multisite Staging
+    url: https://new.one.org/international
 
 
 status-website:
