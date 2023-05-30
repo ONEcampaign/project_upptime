@@ -34,6 +34,8 @@ sites:
     url: https://data.one.org
   - name: Staging
     url: https://staging.one.org/international
+  - name: Action Tracker
+    url: https://actiontracker.one.org/ping/
   - name: Multisite Staging
     url: https://new.one.org/international
   - name: ONE Recruiter
