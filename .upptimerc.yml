@@ -38,7 +38,7 @@ sites:
     url: https://new.one.org/international
   - name: ONE Recruiter
     url: https://recruiter.one.org/wp-login.php
-  - name: ONE Action Tracker
+  - name: Action Tracker
     url: https://actiontracker.one.org/ping/
 
 
