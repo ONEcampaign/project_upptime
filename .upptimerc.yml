@@ -50,7 +50,7 @@ status-website:
   logoUrl: https://www.one.org/wp-content/themes/one_2014/dist/images/ONE-logo-black.png
   name: ONE Status
   introTitle: "ONE.org status"
-  introMessage: This is the status page for ONE services and websites
+  introMessage: This is the status page for ONE services and websites.
   theme: ocean
   navbar:
     - title: Status
