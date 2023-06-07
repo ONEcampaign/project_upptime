@@ -51,6 +51,7 @@ status-website:
   name: ONE Status
   introTitle: "ONE.org status"
   introMessage: This is the status page for ONE services and websites
+  theme: ocean
   navbar:
     - title: Status
       href: /
