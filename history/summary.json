@@ -284,10 +284,10 @@
     "url": "https://one.wafl.chat",
     "icon": "https://icons.duckduckgo.com/ip3/one.wafl.chat.ico",
     "slug": "rapidpro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 4020,
@@ -296,6 +296,7 @@
     "timeMonth": 4010,
     "timeYear": 4044,
     "dailyMinutesDown": {
+      "2023-06-16": 1,
       "2023-04-21": 214
     }
   },
